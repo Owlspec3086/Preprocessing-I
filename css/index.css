@@ -1,1 +1,333 @@
-/* Compile your LESS file! */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+  background-color: black;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* Set every element's box-sizing to border-box */
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+header {
+  background-image: url("../imgs/mts.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: top;
+}
+header .navigation .top-tag {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin-left: 2%;
+  margin-bottom: 10%;
+  margin-right: 2%;
+}
+@media (max-width: 500px) {
+  header .navigation .top-tag {
+    width: 100%;
+    font-size: 10px;
+    justify-content: space-around;
+  }
+}
+header .navigation a {
+  margin-top: 6%;
+}
+header h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 2%;
+  color: whitesmoke;
+}
+header h2 {
+  font-size: 2rem;
+  text-align: center;
+  color: whitesmoke;
+  padding-bottom: 8%;
+}
+.whole {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: black;
+  max-width: 100%;
+}
+@media (max-width: 500px) {
+  .whole {
+    flex-direction: column;
+  }
+}
+.left-side {
+  width: 40%;
+  flex-direction: column;
+  flex-wrap: flex;
+  margin-bottom: 10%;
+}
+@media (max-width: 500px) {
+  .left-side {
+    width: 100%;
+  }
+}
+.left-side .career {
+  background-color: black;
+  color: white;
+  margin-right: 10%;
+  flex-direction: column;
+  display: flex;
+  text-align: left;
+  padding-top: 10%;
+}
+.left-side .career h4 {
+  font-size: 1.6rem;
+  margin-left: 6%;
+  padding-top: 10%;
+}
+.left-side .career p {
+  margin-top: 2%;
+  margin-left: 7%;
+  font-size: 0.9rem;
+}
+.left-side .qualifications {
+  color: white;
+  margin-right: 15%;
+  margin-top: 8%;
+  padding-top: 2%;
+}
+.left-side .qualifications h4 {
+  font-size: 1.6rem;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+.left-side .qualifications ul {
+  margin-top: 3%;
+  margin-left: 12%;
+  margin-bottom: 3%;
+  font-size: 0.9rem;
+}
+.left-side .contacts {
+  color: white;
+  margin-right: 15%;
+  margin-top: 10%;
+}
+.left-side .contacts h4 {
+  font-size: 1.6rem;
+  margin-left: 8%;
+  margin-top: 10%;
+}
+.left-side .contacts p {
+  margin-top: 2%;
+  margin-left: 8%;
+  font-size: 0.9rem;
+  padding-bottom: 2%;
+}
+.right-side {
+  display: flex;
+  color: white;
+  width: 50%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+}
+@media (max-width: 500px) {
+  .right-side {
+    width: 100%;
+  }
+}
+.right-side .work-experience {
+  padding-top: 4%;
+  text-align: left;
+  max-width: 100%;
+  margin-right: 5%;
+}
+.right-side .work-experience h3 {
+  font-size: 1.6rem;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-right: 2%;
+}
+.right-side .work-experience h5 {
+  font-size: 0.9rem;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+.right-side .work-experience p {
+  margin-top: 2%;
+  margin-left: 5%;
+  font-size: 0.9rem;
+  padding-bottom: 2%;
+  margin-right: 10%;
+}
+.right-side .work-experience h4 {
+  font-size: 0.9rem;
+  margin-left: 5%;
+  margin-top: 1%;
+  color: grey;
+}
+.right-side .work-experience ul {
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-bottom: 3%;
+  font-size: 0.9rem;
+}
+.edu .Academics {
+  margin-left: %;
+  margin-top: 4%;
+  color: white;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 5%;
+  margin-left: 3%;
+  margin-right: 2%;
+}
+@media (max-width: 500px) {
+  .edu .Academics {
+    width: 100%;
+    align-items: flex-start;
+  }
+}
+.edu .Academics div {
+  width: 60%;
+  align-items: right;
+}
+.edu .Academics h3 {
+  font-size: 1.6rem;
+  margin-left: 4%;
+  margin-top: 4%;
+  margin-right: 2%;
+  color: white;
+}
+.edu .Academics p {
+  margin-top: 2%;
+  margin-left: 4%;
+  font-size: 0.9rem;
+  padding-bottom: 2%;
+  margin-right: 2%;
+}
