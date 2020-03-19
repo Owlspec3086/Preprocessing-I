@@ -1,0 +1,479 @@
+["INFO" - 7:09:36 PM] Extension Name: "prettier-vscode".
+["INFO" - 7:09:36 PM] Extension Version: "3.20.0".
+["INFO" - 7:09:36 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 7:09:36 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 9:35:45 PM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 9:35:45 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 9:35:45 PM] Using bundled version of prettier.
+["INFO" - 9:35:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:35:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:35:46 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 9:35:46 PM] Formatting completed in 391.273583ms.
+["INFO" - 2:25:58 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 2:25:58 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 2:25:58 AM] Using bundled version of prettier.
+["INFO" - 2:25:58 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 2:25:58 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:25:58 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 2:25:58 AM] Formatting completed in 318.691856ms.
+["INFO" - 2:27:15 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 2:27:15 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 2:27:15 AM] Using bundled version of prettier.
+["INFO" - 2:27:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 2:27:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:27:16 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 2:27:16 AM] Formatting completed in 173.650356ms.
+["INFO" - 3:01:33 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 3:01:33 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 3:01:33 AM] Using bundled version of prettier.
+["INFO" - 3:01:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:01:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:01:33 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:01:33 AM] Error formatting document.
+["ERROR" - 3:01:33 AM] Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+SyntaxError: Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+	at bt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:1:18475)
+	at Jt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:1739)
+	at e (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4100)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4957)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:9739:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13252:23)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13510:73)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13526:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44207:15
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44226:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350954
+	at t.default.safeExecution (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:351254)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350934)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:345019)
+["INFO" - 3:01:33 AM] Formatting completed in 73.578707ms.
+["INFO" - 3:01:44 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 3:01:44 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 3:01:44 AM] Using bundled version of prettier.
+["INFO" - 3:01:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:01:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:01:44 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:01:45 AM] Error formatting document.
+["ERROR" - 3:01:45 AM] Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+SyntaxError: Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+	at bt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:1:18475)
+	at Jt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:1739)
+	at e (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4100)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4957)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:9739:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13252:23)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13510:73)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13526:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44207:15
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44226:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350954
+	at t.default.safeExecution (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:351254)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350934)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:345019)
+["INFO" - 3:01:45 AM] Formatting completed in 44.431427ms.
+["INFO" - 3:02:01 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 3:02:01 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 3:02:01 AM] Using bundled version of prettier.
+["INFO" - 3:02:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:02:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:02:01 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["ERROR" - 3:02:01 AM] Error formatting document.
+["ERROR" - 3:02:01 AM] Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+SyntaxError: Unexpected closing tag "setion". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (160:5)
+  158 |         </div>
+  159 |       </div>
+> 160 |     </setion>
+      |     ^
+  161 |       <!--Closing of work experience-->
+  162 |       <section>
+  163 |       <div class="Academics Profile">
+	at bt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:1:18475)
+	at Jt (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:1739)
+	at e (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4100)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-html.js:113:4957)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:9739:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13252:23)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13510:73)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13526:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44207:15
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44226:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350954
+	at t.default.safeExecution (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:351254)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350934)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:345019)
+["INFO" - 3:02:01 AM] Formatting completed in 25.3995ms.
+["INFO" - 3:06:35 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 3:06:35 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 3:06:35 AM] Using bundled version of prettier.
+["INFO" - 3:06:35 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:06:35 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:06:35 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 3:06:36 AM] Formatting completed in 222.564037ms.
+["INFO" - 3:54:38 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/less/index.less
+["INFO" - 3:54:38 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 3:54:38 AM] Using bundled version of prettier.
+["INFO" - 3:54:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "less"
+}
+["INFO" - 3:54:38 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:54:38 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/less/index.less",
+  "parser": "less"
+}
+["ERROR" - 3:54:38 AM] Error formatting document.
+["ERROR" - 3:54:38 AM] (postcss) CssSyntaxError Unclosed block (231:2)
+  229 | 
+  230 | @media (max-width: 500px){
+> 231 | 	.navigation{
+      | 	^
+  232 | 			flex-direction: column;
+  233 | 		
+  234 | 		.top-tag{
+SyntaxError: (postcss) CssSyntaxError Unclosed block (231:2)
+  229 | 
+  230 | @media (max-width: 500px){
+> 231 | 	.navigation{
+      | 	^
+  232 | 			flex-direction: column;
+  233 | 		
+  234 | 		.top-tag{
+	at e.exports (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-postcss.js:8:154483)
+	at parseWithParser (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-postcss.js:8:151198)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/parser-postcss.js:8:153971)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:9739:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13252:23)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13510:73)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:13526:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44207:15
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/node_modules/prettier/index.js:44226:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350954
+	at t.default.safeExecution (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:351254)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:350934)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension.js:1:345019)
+["INFO" - 3:54:38 AM] Formatting completed in 124.336855ms.
+["INFO" - 10:57:50 AM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 10:57:50 AM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 10:57:50 AM] Using bundled version of prettier.
+["INFO" - 10:57:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:57:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:57:50 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 10:57:51 AM] Formatting completed in 504.543734ms.
+["INFO" - 1:24:57 PM] Formatting /home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html
+["INFO" - 1:24:58 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Preprocessing-I/.prettierignore
+["INFO" - 1:24:58 PM] Using bundled version of prettier.
+["INFO" - 1:24:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:24:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:24:58 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Preprocessing-I/index.html",
+  "parser": "html"
+}
+["INFO" - 1:24:58 PM] Formatting completed in 371.890808ms.

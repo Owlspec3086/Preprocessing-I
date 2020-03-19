@@ -1,0 +1,14 @@
+[2020-03-18 16:09:18.117] [sharedprocess] [info] main {"machineId":"d35e60972f936969a4ac0ca7610b3e12a28c537fcd8114a8273a811044e1597b","windowId":2}
+[2020-03-18 16:09:58.190] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-18 19:09:33.997] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-03-18 19:09:34.493] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/031cb5a4-1246-41e1-a6a0-2162a6c58fbd
+[2020-03-18 19:09:35.690] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-3.20.0: esbenp.prettier-vscode
+[2020-03-18 19:09:35.691] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0
+[2020-03-18 19:09:35.694] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-03-18 19:09:35.706] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-03-18 19:11:03.459] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-03-18 19:11:03.688] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /tmp/304803a3-a850-4cd9-8a22-1a53f413c766
+[2020-03-18 19:11:06.380] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-03-18 19:11:06.380] [sharedprocess] [info] Renamed to /root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-03-18 19:11:06.381] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-03-18 19:11:06.398] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
