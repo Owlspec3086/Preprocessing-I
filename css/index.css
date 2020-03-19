@@ -134,13 +134,276 @@ html,
 body {
   height: 100%;
 }
-header {
-  background-image: url("");
+header .navigation .top-tag {
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  margin-left: 2%;
+  margin-bottom: 10%;
+  margin-right: 2%;
+}
+header .navigation a {
+  margin-top: 6%;
 }
 header h1 {
   font-size: 3rem;
   font-weight: bold;
+  text-align: center;
+  margin-bottom: 2%;
+  color: grey;
 }
 header h2 {
   font-size: 2rem;
+  text-align: center;
+  color: grey;
+  padding-bottom: 8%;
+}
+.left-side {
+  background-color: black;
+}
+.left-side .career {
+  background-color: black;
+  color: white;
+  margin-right: 50%;
+  flex-direction: column;
+  display: flex;
+  text-align: left;
+  padding-top: 10%;
+}
+.left-side .career h4 {
+  font-size: 1.6rem;
+  margin-left: 6%;
+  padding-top: 10%;
+}
+.left-side .career p {
+  margin-top: 2%;
+  margin-left: 7%;
+  font-size: 0.9rem;
+}
+.left-side .qualifications {
+  color: white;
+  margin-right: 65%;
+  margin-top: 8%;
+  padding-top: 2%;
+}
+.left-side .qualifications h4 {
+  font-size: 1.6rem;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+.left-side .qualifications ul {
+  margin-top: 3%;
+  margin-left: 12%;
+  margin-bottom: 3%;
+  font-size: 0.9rem;
+}
+.left-side .contacts {
+  color: white;
+  margin-right: 55%;
+  margin-top: 10%;
+}
+.left-side .contacts h4 {
+  font-size: 1.6rem;
+  margin-left: 8%;
+  margin-top: 10%;
+}
+.left-side .contacts p {
+  margin-top: 2%;
+  margin-left: 8%;
+  font-size: 0.9rem;
+  padding-bottom: 2%;
+}
+.right-side {
+  background-color: black;
+  color: white;
+  flex-direction: column;
+  flex-wrap: flex;
+  float: right;
+}
+.right-side .work-experience {
+  padding-top: 4%;
+  float: right;
+  text-align: left;
+  width: auto 0;
+}
+.right-side .work-experience h3 {
+  font-size: 1.6rem;
+  margin-left: 55%;
+  margin-top: 4%;
+  margin-right: 2%;
+}
+.right-side .work-experience h5 {
+  font-size: 0.9rem;
+  margin-left: 55%;
+  margin-top: 1%;
+}
+.right-side .work-experience p {
+  margin-top: 2%;
+  margin-left: 55%;
+  font-size: 0.9rem;
+  padding-bottom: 2%;
+  margin-right: 10%;
+}
+.right-side .work-experience h4 {
+  font-size: 0.9rem;
+  margin-left: 55%;
+  margin-top: 1%;
+  color: grey;
+}
+.right-side .work-experience ul {
+  margin-top: 2%;
+  margin-left: 55%;
+  margin-bottom: 3%;
+  font-size: 0.9rem;
+}
+@media (max-width: 500px) {
+  .navigation {
+    flex-direction: column;
+  }
+  .navigation .top-tag {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+  }
+  .navigation .top-tag .navigation .top-tag {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin-left: 2%;
+    margin-bottom: 10%;
+    margin-right: 2%;
+  }
+  .navigation .top-tag .navigation a {
+    margin-top: 6%;
+  }
+  .navigation .top-tag h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+    color: grey;
+  }
+  .navigation .top-tag h2 {
+    font-size: 2rem;
+    text-align: center;
+    color: grey;
+    padding-bottom: 8%;
+  }
+  .navigation .left-side {
+    background-color: black;
+  }
+  .navigation .left-side .career {
+    background-color: black;
+    color: white;
+    margin-right: 50%;
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    padding-top: 10%;
+  }
+  .navigation .left-side .career h4 {
+    font-size: 1.6rem;
+    margin-left: 6%;
+    padding-top: 10%;
+  }
+  .navigation .left-side .career p {
+    margin-top: 2%;
+    margin-left: 7%;
+    font-size: 0.9rem;
+  }
+  .navigation .left-side .qualifications {
+    color: white;
+    margin-right: 65%;
+    margin-top: 8%;
+    padding-top: 2%;
+  }
+  .navigation .left-side .qualifications h4 {
+    font-size: 1.6rem;
+    margin-left: 7%;
+    margin-top: 10%;
+  }
+  .navigation .left-side .qualifications ul {
+    margin-top: 3%;
+    margin-left: 12%;
+    margin-bottom: 3%;
+    font-size: 0.9rem;
+  }
+  .navigation .left-side .contacts {
+    color: white;
+    margin-right: 55%;
+    margin-top: 10%;
+  }
+  .navigation .left-side .contacts h4 {
+    font-size: 1.6rem;
+    margin-left: 8%;
+    margin-top: 10%;
+  }
+  .navigation .left-side .contacts p {
+    margin-top: 2%;
+    margin-left: 8%;
+    font-size: 0.9rem;
+    padding-bottom: 2%;
+  }
+  .navigation .right-side {
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    flex-wrap: flex;
+    float: right;
+  }
+  .navigation .right-side .work-experience {
+    padding-top: 4%;
+    float: right;
+    text-align: left;
+    width: auto 0;
+  }
+  .navigation .right-side .work-experience h3 {
+    font-size: 1.6rem;
+    margin-left: 55%;
+    margin-top: 4%;
+    margin-right: 2%;
+  }
+  .navigation .right-side .work-experience h5 {
+    font-size: 0.9rem;
+    margin-left: 55%;
+    margin-top: 1%;
+  }
+  .navigation .right-side .work-experience p {
+    margin-top: 2%;
+    margin-left: 55%;
+    font-size: 0.9rem;
+    padding-bottom: 2%;
+    margin-right: 10%;
+  }
+  .navigation .right-side .work-experience h4 {
+    font-size: 0.9rem;
+    margin-left: 55%;
+    margin-top: 1%;
+    color: grey;
+  }
+  .navigation .right-side .work-experience ul {
+    margin-top: 2%;
+    margin-left: 55%;
+    margin-bottom: 3%;
+    font-size: 0.9rem;
+  }
+  a {
+    margin-top: 6%;
+    margin: auto 0;
+  }
+}
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 2%;
+  color: grey;
+}
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  color: grey;
+  padding-bottom: 8%;
 }
